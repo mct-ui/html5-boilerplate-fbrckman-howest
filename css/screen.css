@@ -10,6 +10,7 @@ html {
     font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
     color: #111;
     padding: 24px 24px 0;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -172,7 +173,7 @@ a:focus {
     html {
         padding: 48px 48px 24px;
     }
-    
+
     h1 {
         font-size: 58px;
         line-height: 64px;
